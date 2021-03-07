@@ -1,6 +1,6 @@
 # Flask-Car
 #### Put the HTML file in a folder named templates
-RC car controlled by a flask webpage, using raspberry pi 4 GPIO pins
+> RC car controlled by a flask webpage, using raspberry pi 4 GPIO pins
 
 I used:
 1. L298n
